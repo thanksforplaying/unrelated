@@ -40,5 +40,5 @@ TODO
 
 
 ## TODO
-Add time intervals, e.g. block related only from 9am — 6pm 
-Add more sites
+- [ ] Add time intervals, e.g. block related only from 9am — 6pm 
+- [ ] Add more sites
